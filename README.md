@@ -21,11 +21,8 @@ Here are some ideas to get you started:
   -->
 | <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sqd1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a> | <a href="https://github.com/stacklens/django_blog_tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqd1998&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-### Languages and Frameworks
+**:hammer_and_pick:会的东西：**
 
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-%23092E20?logo=javascript&style=for-the-badge&logoColor=white&color=006400)
-![Swift](https://img.shields.io/badge/-Swift-%233776ab?logo=swift&style=for-the-badge&logoColor=white&color=D2691E)
-
+ ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![flask](https://img.shields.io/badge/-Flask-3776AB?style=flat-square&logo=flask&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=white) ![sky](https://img.shields.io/badge/-光遇-3776AB?style=flat-square&logo=sky&logoColor=white)
 
 <br>
