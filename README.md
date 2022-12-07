@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+你好，我是 QidongSun，现居山东。本科学的计算机科学，，现从事前端开发，努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。喜欢旅行，摄影，骑行，轮滑，滑板，读书，电影。
+
+如果你想聊聊技术或者交个朋友，可以加我微信 `qk101002`。
+
 <!--
-**sqd1998/sqd1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
