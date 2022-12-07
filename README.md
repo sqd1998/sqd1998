@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
-**Tools and Environments**
+### Tools and Environments
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
