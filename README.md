@@ -6,6 +6,10 @@
 
 如果你想聊聊技术或者交个朋友，可以加我微信 `qk101002`。
 
+Hi, I'm QidongSun, currently living in Shandong. I'm a computer science and technology major, now I'm working on front-end development, trying to become a full-stack developer, hoping to make a product that can contribute a little bit to the world. I like to travel, photography, cycling, rollerblading, skateboarding, reading, and movies.
+
+If you want to talk about technology or make a friend, you can add my WeChat qk101002.
+
 <!--
 
 Here are some ideas to get you started:
