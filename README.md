@@ -2,11 +2,11 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-你好，我是 QidongSun，现居山东。本科学的计算机科学与技术专业，现从事前端开发，努力成为一名全栈开发者，希望能够做出对世界有一点点微小贡献的产品。喜欢旅行，摄影，骑行，轮滑，滑板，读书，电影。
+你好，我是 QidongSun，现居山东。本科学的计算机科学与技术专业，现从事前端开发，会点 Java，Js，知道 Springboot、Vue会使用 Docker、Nginx、照着谷歌、文档来。
 
 如果你想聊聊技术或者交个朋友，可以加我微信 `qk101002`。
 
-Hi, I'm QidongSun, currently living in Shandong. I'm a computer science and technology major, now I'm working on front-end development, trying to become a full-stack developer, hoping to make a product that can contribute a little bit to the world. I like to travel, photography, cycling, rollerblading, skateboarding, reading, and movies.
+Hello, I am Qidong Sun, currently residing in Shandong. I majored in Computer Science and Technology during my undergraduate studies and am currently engaged in front-end development with some knowledge of Java, Js， Knowing that Springboot and Vue can use Docker Nginx、 Follow Google and Documents
 
 If you want to talk about technology or make a friend, you can add my WeChat qk101002.
 
